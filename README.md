@@ -7,7 +7,7 @@ In 2019, we want to challenge Canadians to pause and think, learn about, share, 
 See slide 5 for suggestions on how learners can incorporate this month’s theme into their projects - if they choose to participate.
 
 # Canada Learning Code
-## Ladies Learning Code
+## Teens Learning Code
 
 ### HTML & CSS for Beginners: Learn to Build a Multi Page Website From Scratch
 
@@ -17,12 +17,12 @@ This workshop covers HTML and CSS basics and is intended for complete beginners.
 
 ### Quick Links
 
-Preview Slides: ladieslearningcode.github.io/llc-html-css-multi-page-site/slides.html#slide1
+Preview Slides: http://ladieslearningcode.github.io/teenslc-html-css-multi-page-site/slides.html#slide1
 
 ### Attributions
 
-Created by [Christina Truong](http://christinatruong.com) for [Ladies Learning Code](http://ladieslearningcode.com).
-Email questions & comments to <content@ladieslearningcode.com>.
+Created by [Christina Truong](http://christinatruong.com) for [Canada Learning Code](http://canadalearningcode.ca).
+Email questions & comments to <content@canadalearningcode.ca>.
 
 This content was created with the advisory of and in collaboration with educators, industry representatives and technologists. These individuals have helped us to ensure that lesson content represents the technology landscape and educator needs, with learners in mind. If you'd like to contribute to future lesson content development, let us know [here](https://docs.google.com/forms/d/e/1FAIpQLSfJ8NSMKVAmzpdn3EAymxCbDDz3XZPxyDdmtQ87GECuvXzzDQ/viewform).
 
@@ -30,7 +30,7 @@ We're really happy to see others leverage our content in their community - we’
 
 Here's an easy way to attribute content back to us - please include it wherever you use or make reference to our content.
 
-"Please note that this is not a [Canada Learning Code](https://www.canadalearningcode.ca/) affiliated event, but we want to acknowledge the organization for the creation of [the content](https://github.com/ladieslearningcode/llc-intro-to-javascript) being delivered under Creative Commons license"
+"Please note that this is not a [Canada Learning Code](https://www.canadalearningcode.ca/) affiliated event, but we want to acknowledge the organization for the creation of [the content](https://github.com/ladieslearningcode/teenslc-html-css-multi-page-site) being delivered under Creative Commons license"
 
 
 ### Contributing
